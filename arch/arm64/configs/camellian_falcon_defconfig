@@ -2,7 +2,7 @@ CONFIG_CROSS_COMPILE="aarch64-linux-android-"
 CONFIG_SYSVIPC=y
 CONFIG_POSIX_MQUEUE=y
 #BSP.System - 2020.11.11 - add compile commit id
-CONFIG_LOCALVERSION="-BlackFalcon-🇵🇸"
+CONFIG_LOCALVERSION="-BlackFalcon"
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_FHANDLE is not set
 CONFIG_IKHEADERS=m
